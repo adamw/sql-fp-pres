@@ -1,8 +1,5 @@
-Co doobie, tapir, sttp, monix mają wspólnego?
+Inne tego typu biblioteki:
 
-* opis problemu: struktura danych
-* interpreter: funkcja struktura danych -> coś
-
-* oddzielenie opisu problemu od interpretacji
-
-* dodatkowy poziom wykonania -> dodatkowy stopień swobody
+* sttp client (HTTP-klient)
+* sttp tapir (HTTP-serwer/dokumentacja)
+* ZIO, Monix, cats-effect: efekty

@@ -1,0 +1,6 @@
+* wartości: ConnectionIO, IO
+    immutable!
+
+* funkcje:
+    .map, .flatMap
+    .transact, .unsafeRunSync
