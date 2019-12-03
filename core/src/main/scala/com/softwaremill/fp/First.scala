@@ -6,15 +6,13 @@ import java.util.UUID
 import doobie._
 import doobie.implicits._
 import doobie.postgres.implicits._
-import cats._
 import cats.implicits._
 import cats.effect._
-import cats.effect.implicits._
 
 import scala.concurrent.ExecutionContext
 import scala.concurrent.duration._
 
-object First extends App {
+object First extends App with Logging {
   case class Job(id: UUID, content: String)
 
   //

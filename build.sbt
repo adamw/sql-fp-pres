@@ -20,6 +20,8 @@ lazy val core: Project = (project in file("core"))
       "org.tpolecat" %% "doobie-postgres" % doobieVersion,
       "org.tpolecat" %% "doobie-quill" % doobieVersion,
       "org.tpolecat" %% "doobie-hikari" % doobieVersion,
+      "com.typesafe.scala-logging" %% "scala-logging" % "3.9.2",
+      "ch.qos.logback" % "logback-classic" % "1.2.3",
       scalaTest
     )
   )
