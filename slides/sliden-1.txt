@@ -1,0 +1,8 @@
+Co doobie, tapir, sttp, monix mają wspólnego?
+
+* opis problemu: struktura danych
+* interpreter: funkcja struktura danych -> coś
+
+* oddzielenie opisu problemu od interpretacji
+
+* dodatkowy poziom wykonania -> dodatkowy stopień swobody
