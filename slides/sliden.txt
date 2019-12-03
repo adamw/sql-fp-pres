@@ -13,9 +13,9 @@
               |__|     \______/   \______/
 
 
-* https://github.com/softwaremill/bootzooka
+* https://github.com/adamw/sql-fp-pres
 
-* https://blog.softwaremill.com
+* https://blog.softwaremill.com/from-transactional-to-type-safe-reasonable-transactions-a5019906245e
 
 * [Scala Times](http://scalatimes.com)
 
