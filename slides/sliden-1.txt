@@ -3,3 +3,6 @@ Inne tego typu biblioteki:
 * sttp client (HTTP-klient)
 * sttp tapir (HTTP-serwer/dokumentacja)
 * ZIO, Monix, cats-effect: efekty
+* free monads
+
+Rozdzielenie opisu problemu i interpretacji
