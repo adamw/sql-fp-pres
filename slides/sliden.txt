@@ -17,7 +17,7 @@
 
 * https://blog.softwaremill.com/from-transactional-to-type-safe-reasonable-transactions-a5019906245e
 
-* https://jvmwheel.sml.io
+* https://scala.page
 
 * [Scala Times](http://scalatimes.com)
 

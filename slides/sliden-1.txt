@@ -1,8 +1,8 @@
-Inne tego typu biblioteki:
+Other libraries following a similar approach:
 
-* sttp client (HTTP-klient)
-* sttp tapir (HTTP-serwer/dokumentacja)
-* ZIO, Monix, cats-effect: efekty
+* sttp client (HTTP client)
+* sttp tapir (HTTP servers/docs)
+* ZIO, Monix, cats-effect
 * free monads
 
-Rozdzielenie opisu problemu i interpretacji
+Separating the description of the problem from its interpretation

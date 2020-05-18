@@ -6,6 +6,7 @@ import java.util.UUID
 import doobie._
 import doobie.implicits._
 import doobie.postgres.implicits._
+import doobie.implicits.legacy.instant._
 import cats.implicits._
 import cats.effect._
 

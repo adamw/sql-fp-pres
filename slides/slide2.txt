@@ -1,5 +1,7 @@
-About me
---------
+Why me?
+-------
+
+14 years w/ RDBMS-backed apps: Hibernate, JPA, Lift, ActiveRecord, Slick, Doobie
 
 * coder @ [SoftwareMill](http://www.softwaremill.com)
   ** custom software: Big&Fast Data, ML/AI, Blockchain, Messaging, ...

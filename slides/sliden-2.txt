@@ -1,6 +1,8 @@
-* wartości: ConnectionIO, IO
+Functional programming:
+
+* values: ConnectionIO, IO
     immutable!
 
-* funkcje:
+* functions:
     .map, .flatMap
     .transact, .unsafeRunSync

@@ -1,16 +1,16 @@
 lazy val commonSettings = commonSmlBuildSettings ++ Seq(
   organization := "com.softwaremill.fp",
-  scalaVersion := "2.12.8"
+  scalaVersion := "2.13.2"
 )
 
-val scalaTest = "org.scalatest" %% "scalatest" % "3.0.7" % "test"
+val scalaTest = "org.scalatest" %% "scalatest" % "3.1.2" % "test"
 
 lazy val rootProject = (project in file("."))
   .settings(commonSettings: _*)
   .settings(publishArtifact := false, name := "sql-fp-pres")
   .aggregate(core)
 
-val doobieVersion = "0.8.6"
+val doobieVersion = "0.9.0"
 
 lazy val core: Project = (project in file("core"))
   .settings(commonSettings: _*)
