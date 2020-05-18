@@ -1,14 +1,13 @@
-Why me?
--------
+Current state
+-------------
 
-14 years w/ RDBMS-backed apps: Hibernate, JPA, Lift, ActiveRecord, Slick, Doobie
+Most popular: Hibernate/JPA using @annotations
 
-* coder @ [SoftwareMill](http://www.softwaremill.com)
-  ** custom software: Big&Fast Data, ML/AI, Blockchain, Messaging, ...
-  ** Scala/Kafka/Cassandra consulting
+Can we do better?
 
-* open-source: sttp, tapir, MacWire, ElasticMQ, Quicklens, Envers, ...
-
-* [blog](http://www.softwaremill.com/blog)
-
-* [twitter](@adamwarski)
+* precision of transaction boundaries
+* multi-threading
+* no framework/AOP
+* type-safety
+* flexibility
+* explorability
